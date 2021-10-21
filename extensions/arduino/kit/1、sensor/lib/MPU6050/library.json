@@ -1,0 +1,18 @@
+{
+    "name": "MPU6050",
+    "frameworks": "Arduino",
+    "keywords": "MPU MPU6050 gx gy gz getAngle update",
+    "description": "Control 1-Wire protocol (DS18S20, DS18B20, DS2408 and etc)",
+    "authors": [
+        {
+            "name": "Paul Stoffregen",
+            "email": "paul@pjrc.com",
+            "url": "http://www.pjrc.com",
+            "maintainer": true
+        }
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PaulStoffregen/OneWire"
+    }
+}

@@ -1,0 +1,14 @@
+{
+  "name": "TM16XX",
+  "keywords": "Digitron display rest",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RobTillaart/Arduino.git"
+  },
+  "frameworks": "arduino",
+  "platforms": "*",
+  "export": {
+    "include": "libraries/Digitron"
+  }
+}

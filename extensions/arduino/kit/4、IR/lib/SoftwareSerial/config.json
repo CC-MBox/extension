@@ -1,0 +1,10 @@
+{
+	"uno": true,
+	"nano": true,
+	"mpython": false,
+	"microbit": false,
+	"leonardo": true,
+	"mega2560": true,
+	"beetleProMini": false,
+	"include": "SoftwareSerial.h"
+}
